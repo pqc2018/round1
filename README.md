@@ -7,4 +7,4 @@
 |Algorithm|Submitters|Type|Broken|Attack Details|Attack links|
 | ------------- |:-------------:| -----:|:-------------:| -----:|-----:|
 |  [BIG QUAKE](https://bigquake.inria.fr/)   |  	Alain Couvreur, Magali Bardet,Elise Barelli,Olivier Blazy,Rodolfo Canto-Torres,Philippe Gaborit,Ayoub Otmani,Nicolas Sendrier,Jean-Pierre Tillich|not yet  |    |  | |
-|RaCoSS||||||
+|RaCoSS| 	Kazuhide Fukushima,Partha Sarathi Roy, Rui Xu, Shinsaku Kiyomoto, Kirill Morozov, Tsuyoshi Takagi|||||
