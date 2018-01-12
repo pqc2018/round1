@@ -6,4 +6,12 @@
 
 |Algorithm|Submitters|Type|Broken|Attack Details|Attack links|
 | ------------- |:-------------:| -----:|:-------------:| -----:|-----:|
-|  BIG QUAKE   | |  |    |  | |
+|  [BIG QUAKE](https://bigquake.inria.fr/)   |  	Alain Couvreur
+Magali Bardet
+Elise Barelli
+Olivier Blazy
+Rodolfo Canto-Torres
+Philippe Gaborit
+Ayoub Otmani
+Nicolas Sendrier
+Jean-Pierre Tillich|  |    |  | |
