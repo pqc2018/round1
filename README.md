@@ -6,5 +6,5 @@
 
 |Algorithm|Submitters|Type|Broken|Attack Details|Attack links|
 | ------------- |:-------------:| -----:|:-------------:| -----:|-----:|
-|  [BIG QUAKE](https://bigquake.inria.fr/)   |  	Alain Couvreur, Magali Bardet,Elise Barelli,Olivier Blazy,Rodolfo Canto-Torres,Philippe Gaborit,Ayoub Otmani,Nicolas Sendrier,Jean-Pierre Tillich|not yet  |    |  | |
-|RaCoSS| 	Kazuhide Fukushima,Partha Sarathi Roy, Rui Xu, Shinsaku Kiyomoto, Kirill Morozov, Tsuyoshi Takagi|||||
+|  [BIG QUAKE](https://bigquake.inria.fr/)   |  	Alain Couvreur, Magali Bardet,Elise Barelli,Olivier Blazy,Rodolfo Canto-Torres,Philippe Gaborit,Ayoub Otmani,Nicolas Sendrier,Jean-Pierre Tillich| Not yet  |    |  | |
+|RaCoSS| 	Kazuhide Fukushima,Partha Sarathi Roy, Rui Xu, Shinsaku Kiyomoto, Kirill Morozov, Tsuyoshi Takagi|| Maybe |found by Andreas Huelsing, Daniel J. Bernstein, Lorenz Panny and Tanja Lange:||
