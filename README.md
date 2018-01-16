@@ -16,6 +16,7 @@
 |  [CRYSTALS-KYBER](https://pq-crystals.org/)   |  	Peter Schwabe, Roberto Avanzi, Joppe Bos, Leo Ducas, Eike Kiltz, Tancrede Lepoint, Vadim Lyubashevsky, John M. Schanck, Gregor Seiler, Damien Stehle| KEM | No | |
 |  [DAGS](https://www.dags-project.org/)   |  	Gustavo Banegas, Paolo S. L. M. Barreto, Brice Odilon Boidje, Pierre-Louis Cayrel, Gilbert Ndollane Dione, Kris Gaj, Cheikh Thiecoumba Gueye, Richard Haeussler, Jean Belo Klamti, Ousmane N'diaye, Duc Tri Nguyen, Edoardo Persichetti, Jefferson E. Ricardini| KEM | No | |
 |  Ding Key Exchange   |  Jintai Ding, Tsuyoshi Takagi, Xinwei Gao, Yuntao Wang| KEM | No | |
+|  DualModeMS   | J.-C. Faugere, L. Perret, J. Ryckeghem|  | No | |
 |  HK17*   |  Juan Pedro Hecht,Jorge Alejandro Kamlofsky| KEM | Yes | found by  Daniel J. Bernstein and Tanja Lange| <https://github.com/pqc2018/round1/blob/master/attacks/scripts/hk17.py>
 |RaCoSS| 	Kazuhide Fukushima,Partha Sarathi Roy, Rui Xu, Shinsaku Kiyomoto, Kirill Morozov, Tsuyoshi Takagi|| Probably yes |found by Andreas Huelsing, Daniel J. Bernstein, Lorenz Panny and Tanja Lange | <https://helaas.org/racoss-20171222.tar.gz>|
 |RVB*| 	C. B. Roellgen, G. Brands|| Yes |found by Lorenz Panny| <https://yx7.cc/files/chaos.sage.txt>|
