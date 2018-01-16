@@ -14,7 +14,7 @@
 |  [BIKE](http://bikesuite.org/)   |  	Nicolas Aragon, Paulo Barreto, Slim Bettaieb, Loic Bidoux, Olivier Blazy, Jean Christophe Deneuville, Phillipe Gaborit, Shay Gueron, Tim Guneysu, Carlos Aguilar Melchor, Rafael Misoczki, Edoardo Persichetti, Nicolas Sendrier, Jean-Pierre Tillich, Gilles Zemor |  | Not yet? | |
 |  HK17*   |  Juan Pedro Hecht,Jorge Alejandro Kamlofsky| KEM | Yes | found by  Daniel J. Bernstein and Tanja Lange| https://github.com/pqc2018/round1/blob/master/attacks/scripts/hk17.py
 |RaCoSS| 	Kazuhide Fukushima,Partha Sarathi Roy, Rui Xu, Shinsaku Kiyomoto, Kirill Morozov, Tsuyoshi Takagi|| Probably yes |found by Andreas Huelsing, Daniel J. Bernstein, Lorenz Panny and Tanja Lange | https://helaas.org/racoss-20171222.tar.gz |
-|RVB*| 	C. B. Roellgen, G. Brands|| Yes |found by Lorenz Panny| |
+|RVB*| 	C. B. Roellgen, G. Brands|| Yes |found by Lorenz Panny| https://yx7.cc/files/chaos.sage.txt|
 
 
  \* denotes algorithm has been withdrawn
