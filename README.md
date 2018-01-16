@@ -6,7 +6,7 @@
 
 ## Round 1 Submissions
 
- * denotes algorithm has been withdrawn
+ \* denotes algorithm has been withdrawn
 
 |Algorithm|Submitters|Type|Broken|Attack Details|Attack links|
 | ------------- |:-------------:| -----:|:-------------:| -----:|-----:|
@@ -16,4 +16,4 @@
 |RaCoSS| 	Kazuhide Fukushima,Partha Sarathi Roy, Rui Xu, Shinsaku Kiyomoto, Kirill Morozov, Tsuyoshi Takagi|| Probably yes |found by Andreas Huelsing, Daniel J. Bernstein, Lorenz Panny and Tanja Lange :| https://helaas.org/racoss-20171222.tar.gz |
 
 
- * denotes algorithm has been withdrawn
+ \* denotes algorithm has been withdrawn
