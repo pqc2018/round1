@@ -1,8 +1,8 @@
 # Post-Quantum Cryptography
 
-[Official site](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/Round-1-Submissions)
+## [Official site](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/Round-1-Submissions)
 
-[Similar effort as here](https://docs.google.com/spreadsheets/d/1v1QKFWzkXl2BdvfKmVrzFf7muZm8WNDUarp6uM9GKf8/edit#gid=0)
+[Similar effort as here](https://docs.google.com/spreadsheets/d/1v1QKFWzkXl2BdvfKmVrzFf7muZm8WNDUarp6uM9GKf8/edit#gid=0) by https://twitter.com/gloupin
 
 ## Round 1 Submissions
 
